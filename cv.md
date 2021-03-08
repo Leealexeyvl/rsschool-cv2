@@ -24,6 +24,7 @@ JS, HTML, CSS, Git
       props.addPost(text);
       newPostElement.current.value = '';
     }
+    
 ## Experience ##
 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/neplohiesisi/javascript-algorithms-and-data-structures)
 
