@@ -5,7 +5,9 @@
 
 ## About me ##
 This is my second try. I came back more experienced and more purposeful. The first goal is to get a mentor. Further more.
+
 I have worked as engineer for two years.
+
 I like to play chess.
 
 ## Skills ##
@@ -24,6 +26,7 @@ JS, HTML, CSS, Git
     }
 ## Experience ##
 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/neplohiesisi/javascript-algorithms-and-data-structures)
+
 [Responsive Web Design](https://www.freecodecamp.org/certification/neplohiesisi/responsive-web-design)
 
 ## Education ##
@@ -31,4 +34,5 @@ Master degree of Bauman Moscow State Technical University, Informatics and contr
 
 ## English ##
 C2(Proficient)
+
 [EF SET Certificate](https://www.efset.org/cert/S3Scja)
